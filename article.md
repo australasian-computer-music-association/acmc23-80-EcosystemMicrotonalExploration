@@ -3,13 +3,12 @@ title: 'A new ecosystem for microtonal computer music exploration and compositio
 author: 
     - name: Warren Burt
       affiliation: Independent Composer
+      city: Ararat
       country: Australia
-      email: fake.author@fake.edu.au
+      email: waburt@mail.com
 author-header: W. Burt
 abstract: |
-    This document is a sample article manuscript and instructions for using the Markdown submission template for Chroma, Journal of the Australasian Computer Music Association.
-
-    It is available under a Creative Commons Zero v1.0 Universal license, so you are free to use it in other journals, documents, or any other purpose.
+    Over the past year or so, a number of new programs have emerged which make the composing and exploring of microtonal music much more easy and efficient. In the interaction of these programs, a new eco-system to support microtonal music has come together, and these, with the tools and abilities they imply have greatly expanded the possibilities for microtonal performance, especially in real-time. This paper looks at several of these programs, and how they interact to create a new, more powerful composing environment. The principal programs that allow this program to flourish are MTS-ESP by Oddmusic, Wilsonic by Marcus Hobbs, and VCV-Rack Pro by Andrew Belt and associates. As more developers have come on board supporting the MTS-ESP standard, the number of instruments that are now microtonally capable has expanded greatly. Also, “framework” programs, such as Ableton Live, Bitwig Studio, and Reaper, make the implementation of this ecosystem quite easy.
 anonymous: 'false'
 bibliography: 'references'
 papersize: a4
@@ -162,7 +161,7 @@ exploring that world in some detail. For a deeper look, go to
 wilsonic.co and download the current beta version of the program for
 your relevant platform.
 
-## Manufacturers coming on board with the MTS-ESP standard.
+# Manufacturers coming on board with the MTS-ESP standard.
 
 All these capabilities would not be useful if there was not an adoption
 of the MTS-ESP standard by a large portion of the industry. Happily,
@@ -179,80 +178,40 @@ join this list soon. The rapid adoption of the standard has been quite
 gratifying to see. For the most recent updated list, go to
 https://oddsound.com/usingmtsesp.php.
 
-Antares: Auto-Tune Slice
+- Antares: Auto-Tune Slice
+- Audio Damage: Continua / Phosphor / Slice
+- Audio Nebula: Aurora FM
+- Audiorealism: Bass Line 3 / ReDominator
+- Arturia: Augmented Strings / Augmented Grand Piano / Augmented Brass / Augmented Voices / Buchla Easel V / Clavinet V / CMI V / CS80 V / CZ V / DX7 V / Emulator II V / Jun-6 V / Jup 8 V / MS 20 V / OP Xa V / Piano 3 V / Pigments 4 / Prophet 5 V / Prophet VS V / SQ80 V / Stage 73 V / Synthi V / Vocoder V
+- bitKlavier: bitKlavier
+- ChowDSP: Chow Kick
+- CWITec: TX16Wx
+- discoDSP: OP-Xd
+- DMG Audio: EQuilibrium / Pitch Funk
+- DS: Thorn
+- Entonal Studio: Entonal Studio
+- Expert Sleepers: Silent Way
+- FabFilter: Twin 3
+- Full Bucket Music: FB-7999 / Fury 800 / Grain Strain / ModulAir / WhispAir / Bucket One / Qyooo / Scrooo / MPS (and others)
+- Hy-Plugins: HyPoly
+- Infinitone: Infinitone DMT
+- Modartt: Pianoteq
+- Monoplugs: Monique
+- Nakst: Altitude / Apricot / Integrate / Fluctus / Regency
+- Newfangled Audio: Generate / Pendulate
+- NuSofting: Sinmad / Sunnah
+- Plogue: Bidule / Chipsynth MD / Chipsynth OPS7 / Chipsynth PortaFM / Chipsyntth SFC
+- Rhizomatic: Plasmonic
+- SoundDyan: Interstellar Waterphone / Zanza amd Kalimba
+- Surge: Surge XT / MTS-ESP to Note Expression CLAP
+- TAL Togu Audio Line: TAL-BassLine 101 / TAL J-8 / TAL-MOD / TAL Sampler / TAL-U-No-LX
+- u-He: ACE / Bazille / Beatzille / Colour Copy / Diva / Hive 2 / Podolski / Repro / MFM2.5 / Triple Cheese / Zebra 2 / Zebra CM / Zebralette / Zebra HZ
+- Unfiltered Audio: Lion
+- Virtual CZ: Virtual CZ
+- Wilsonic: Wilsonic
+- Xfer: Serum
 
-Audio Damage: Continua / Phosphor / Slice
-
-Audio Nebula: Aurora FM
-
-Audiorealism: Bass Line 3 / ReDominator
-
-Arturia: Augmented Strings / Augmented Grand Piano / Augmented Brass /
-Augmented Voices / Buchla Easel V / Clavinet V / CMI V / CS80 V / CZ V /
-DX7 V / Emulator II V / Jun-6 V / Jup 8 V / MS 20 V / OP Xa V / Piano 3
-V / Pigments 4 / Prophet 5 V / Prophet VS V / SQ80 V / Stage 73 V /
-Synthi V / Vocoder V
-
-bitKlavier: bitKlavier
-
-ChowDSP: Chow Kick
-
-CWITec: TX16Wx
-
-discoDSP: OP-Xd
-
-DMG Audio: EQuilibrium / Pitch Funk
-
-DS: Thorn
-
-Entonal Studio: Entonal Studio
-
-Expert Sleepers: Silent Way
-
-FabFilter: Twin 3
-
-Full Bucket Music: FB-7999 / Fury 800 / Grain Strain / ModulAir /
-WhispAir / Bucket One / Qyooo / Scrooo / MPS (and others)
-
-Hy-Plugins: HyPoly
-
-Infinitone: Infinitone DMT
-
-Modartt: Pianoteq
-
-Monoplugs: Monique
-
-Nakst: Altitude / Apricot / Integrate / Fluctus / Regency
-
-Newfangled Audio: Generate / Pendulate
-
-NuSofting: Sinmad / Sunnah
-
-Plogue: Bidule / Chipsynth MD / Chipsynth OPS7 / Chipsynth PortaFM /
-Chipsyntth SFC
-
-Rhizomatic: Plasmonic
-
-SoundDyan: Interstellar Waterphone / Zanza amd Kalimba
-
-Surge: Surge XT / MTS-ESP to Note Expression CLAP
-
-TAL Togu Audio Line: TAL-BassLine 101 / TAL J-8 / TAL-MOD / TAL Sampler
-/ TAL-U-No-LX
-
-u-He: ACE / Bazille / Beatzille / Colour Copy / Diva / Hive 2 / Podolski
-/ Repro / MFM2.5 / Triple Cheese / Zebra 2 / Zebra CM / Zebralette /
-Zebra HZ
-
-Unfiltered Audio: Lion
-
-Virtual CZ: Virtual CZ
-
-Wilsonic: Wilsonic
-
-Xfer: Serum
-
-## VCV Rack and Oddsound
+# VCV Rack and Oddsound
 
 Oddsound have made a family of modules for VCV Rack Pro 2. (*VCV Rack
 2 - Virtual Eurorack Studio*, n.d.) These enable external MIDI signals
