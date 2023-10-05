@@ -8,7 +8,7 @@ author:
       email: waburt@mail.com
 author-header: W. Burt
 abstract: |
-    Over the past year or so, a number of new programs have emerged which make the composing and exploring of microtonal music much more easy and efficient. In the interaction of these programs, a new eco-system to support microtonal music has come together, and these, with the tools and abilities they imply have greatly expanded the possibilities for microtonal performance, especially in real-time. This paper looks at several of these programs, and how they interact to create a new, more powerful composing environment. The principal programs that allow this program to flourish are MTS-ESP by Oddmusic, Wilsonic by Marcus Hobbs, and VCV-Rack Pro by Andrew Belt and associates. As more developers have come on board supporting the MTS-ESP standard, the number of instruments that are now microtonally capable has expanded greatly. Also, “framework” programs, such as Ableton Live, Bitwig Studio, and Reaper, make the implementation of this ecosystem quite easy.
+    Over the past year or so, a number of new programs have emerged which make the composing and exploring of microtonal music much more easy and efficient. In the interaction of these programs, a new eco-system to support microtonal music has come together, and these, with the tools and abilities they imply have greatly expanded the possibilities for microtonal performance, especially in real-time. This paper looks at several of these programs, and how they interact to create a new, more powerful composing environment. The principal programs that allow this program to flourish are MTS-ESP by Oddmusic, Wilsonic by Marcus Hobbs, and VCV-Rack Pro by Andrew Belt and associates. As more developers have come on board supporting the MTS-ESP standard, the number of instruments that are now microtonally capable has expanded greatly. Also, "framework" programs, such as Ableton Live, Bitwig Studio, and Reaper, make the implementation of this ecosystem quite easy.
 anonymous: 'false'
 bibliography: 'references'
 papersize: a4
@@ -24,21 +24,6 @@ accepted-date: '2023-08-04'
 published-date: '2023-10-09'
 ---
 
-Over the past year or so, a number of new programs have emerged which
-make the composing and exploring of microtonal music much more easy and
-efficient. In the interaction of these programs, a new eco-system to
-support microtonal music has come together, and these, with the tools
-and abilities they imply have greatly expanded the possibilities for
-microtonal performance, especially in real-time. This paper looks at
-several of these programs, and how they interact to create a new, more
-powerful composing environment. The principal programs that allow this
-program to flourish are MTS-ESP by Oddmusic, Wilsonic by Marcus Hobbs,
-and VCV-Rack Pro by Andrew Belt and associates. As more developers have
-come on board supporting the MTS-ESP standard, the number of instruments
-that are now microtonally capable has expanded greatly. Also,
-"framework" programs, such as Ableton Live, Bitwig Studio, and Reaper,
-make the implementation of this ecosystem quite easy.
-
 # MTS-ESP -- the technology that allows all this to happen:
 
 ODDSound is a British company consisting of Oli Cash, Damon Hancock and
@@ -52,7 +37,7 @@ proves relatively easy. The MTS-ESP library is a simple but versatile
 C/C++ library for adding microtuning support to audio and MIDI plugins.
 Connection between a master and clients is automatic and invisible.
 Integration of the code with the existing synthesizer code is simple and
-typically takes less than half an hour.  (*ODDSOUND*, n.d.)
+typically takes less than half an hour.  (*ODDSOUND*, n.d.)
 
 As a program., MTS-ESP consists of three sub-programs. MTS-ESP Master is
 the program in which tuning information is defined, and operations on
@@ -83,7 +68,7 @@ by Harry Partch into a huge and multi-faceted universe. (*A BIOGRAPHY of
 ERV WILSON*, n.d) It originally existed as an iOS app for the iPad, and
 fed its tuning information into two iOS synthesizers: Audiokit Synth One
 and Digital D1. It provided an extremely low-cost and easy-to-use
-introduction to the tuning universe of Ervin Wilson. (‎*Wilsonic*, 2019)
+introduction to the tuning universe of Ervin Wilson. (*Wilsonic*, 2019)
 I've used this in a number of pieces of mine. (*Warren Burt Performs "6
 Wilson Tunings" at the Make It up Club*, n.d.)
 
@@ -105,55 +90,19 @@ this way, you can establish a sense of modulation and harmonic
 progression in family of scales being generated. (*Microtonality and the
 Tuning Systems of Erv Wilson*, n.d.)
 
-The eleven currently existing pages (more are yet to come) are
+The eleven currently existing pages (more are yet to come) are:
 
-Wilson's Garden -- a curated selection of Wilson's scales from the
-people behind the program.
-
-Moments of Symmetry -- the generalized mathematical prototype for the
-diatonic scale available in an infinity of variations. This page also
-generates generalized keyboard patterns for the scale being worked on.
- (*INTRODUCTION to ERV WILSON'S MOMENTS of SYMMETRY*, n.d.)
-
-Persian 17 North Indian -- Wilson's theory of the derivation of North
-Indian ragas from a 17 note Persian master scale.
-
-Combination Product Sets -- many scales produced by multiplications of
-basic harmonic factors multiplied against each other.  (*WILSON
-ARCHIVES - COMBINATION PRODUCT SETS - CPS*, n.d.)
-
-Euler Genus 6 -- a twenty note scale made from 6 factors, and all the
-subsets of that particular scale, which have 15, 10, 6, or 5 elements.
-
-Recurrence Relations -- the Fibonacci series is the recurrent sequence
-prototype here, but there are many different recurrence relations
-available, each with many generating factors.  (Wilson, 1993)
-
-Equal Temperaments -- not just octave related, but any number of
-divisions of any interval up to 128. All variations are recorded in
-real-time for changing temperaments.
-
-Tritriadic Scales -- a generalisation of John Chalmers' method of
-generating scales. Again, all variations can be recorded in real time
-for changing scales.
-
-Scala -- a utility for accessing scales derived from Scala files. The
-"complete" Scala archive (5158 scales in the most recent version) is
-available in the "bundled" page, and the "user" page allows you to add
-your own. Any changes in scales made during a piece can be recorded,
-allowing for continually changing modulations.
-
-Co-Prime Grid -- this sets up a grid of criss-crossing harmonic and
-subharmonic relations. The tonality diamonds of Partch and Novarro are
-the prototype here. This diagram will also allow those with
-touch-screens to play these scales as if on a touch-sensitive keyboard.
-(Wilson, 1999)
-
-Diamonds -- these are cross sets of all the ratios of between 3 and 8
-factors. Each page then has the complete scale and all the harmonic and
-subharmonic subsets available in that scale. Again, any changes made
-during performance will be recorded allowing for far-reaching
-progressions and modulations. (Wilson, 1970)
+- Wilson's Garden -- a curated selection of Wilson's scales from the people behind the program.
+- Moments of Symmetry -- the generalized mathematical prototype for the diatonic scale available in an infinity of variations. This page also generates generalized keyboard patterns for the scale being worked on.  (*INTRODUCTION to ERV WILSON'S MOMENTS of SYMMETRY*, n.d.)
+- Persian 17 North Indian -- Wilson's theory of the derivation of North Indian ragas from a 17 note Persian master scale.
+- Combination Product Sets -- many scales produced by multiplications of basic harmonic factors multiplied against each other.  (*WILSON ARCHIVES - COMBINATION PRODUCT SETS - CPS*, n.d.)
+- Euler Genus 6 -- a twenty note scale made from 6 factors, and all the subsets of that particular scale, which have 15, 10, 6, or 5 elements.
+- Recurrence Relations -- the Fibonacci series is the recurrent sequence prototype here, but there are many different recurrence relations available, each with many generating factors.  (Wilson, 1993)
+- Equal Temperaments -- not just octave related, but any number of divisions of any interval up to 128. All variations are recorded in real-time for changing temperaments.
+- Tritriadic Scales -- a generalisation of John Chalmers' method of generating scales. Again, all variations can be recorded in real time for changing scales.
+- Scala -- a utility for accessing scales derived from Scala files. The "complete" Scala archive (5158 scales in the most recent version) is available in the "bundled" page, and the "user" page allows you to add your own. Any changes in scales made during a piece can be recorded, allowing for continually changing modulations.
+- Co-Prime Grid -- this sets up a grid of criss-crossing harmonic and subharmonic relations. The tonality diamonds of Partch and Novarro are the prototype here. This diagram will also allow those with touch-screens to play these scales as if on a touch-sensitive keyboard. (Wilson, 1999)
+- Diamonds -- these are cross sets of all the ratios of between 3 and 8 factors. Each page then has the complete scale and all the harmonic and subharmonic subsets available in that scale. Again, any changes made during performance will be recorded allowing for far-reaching progressions and modulations. (Wilson, 1970)
 
 It can be seen from even these brief descriptions that the tuning
 universe of Erv Wilson is immense, and this program allows you to start
@@ -176,7 +125,7 @@ immediately to changes in tuning in the MTS-ESP Master, or in Wilsonic.
 This list is current as of July 21, 2023. Other makers will undoubtedly
 join this list soon. The rapid adoption of the standard has been quite
 gratifying to see. For the most recent updated list, go to
-https://oddsound.com/usingmtsesp.php.
+<https://oddsound.com/usingmtsesp.php>.
 
 - Antares: Auto-Tune Slice
 - Audio Damage: Continua / Phosphor / Slice
@@ -248,7 +197,7 @@ the plugin synthesizers in Bitwig microtonally retunable. (*Bitwig \|
 Home \| Bitwig*, n.d.) . I look forward to hearing from other folks as
 to what DAW programs they are using to host this work. For my purposes,
 the algorithmic resources available in programs like MusicWonk
-(*MusicWonk Overview*, n.d.) and Max 8  (Cycling \'74, 2020) , as well
+(*MusicWonk Overview*, n.d.) and Max 8  (Cycling \'74, 2020) , as well
 as all the possibilities in the new Max for Live modules, when combined
 with the timbral and tuning resources available in the Wilsonic /
 MTS-ESP environment, will provide me with compositional possibilities
@@ -304,7 +253,7 @@ composing eco-system.
 *A BIOGRAPHY OF ERV WILSON*. (n.d.). Www.anaphoria.com. Retrieved
 September 21, 2023, from <https://www.anaphoria.com/wilsonbio.html>
 
-*ODDSOUND*. (n.d.). Oddsound.com. <https://oddsound.com/usingmtsesp.php>
+*ODDSound*. (n.d.). Oddsound.com. <https://oddsound.com/usingmtsesp.php>
 
 *Wilsonic*. (2019, March 5). App Store.
 <https://apps.apple.com/us/app/wilsonic/id848852071>
@@ -329,20 +278,20 @@ Interactive Musical Scale Design. Retrieved September 21, 2023, from
 Www.anaphoria.com. Retrieved September 21, 2023, from
 <https://www.anaphoria.com/wilsoncps.html>
 
-Wilson, E. (1993). *The Scales of Mt Meru* \[Review of *The Scales of Mt
+Wilson, E. (1993). *The Scales of Mt Meru* \[Review of *The Scales of Mt
 Meru*\]. Anaphoria.com. (n.d.). Anaphoria.com.
 <https://www.anaphoria.com/meruone.pdf>
 
-Wilson, E. (1999, November 26). *CoPrime Square Grid* \[Review
-of *CoPrime Square Grid*\]. Anaphoria.com.
+Wilson, E. (1999, November 26). *CoPrime Square Grid* \[Review
+of *CoPrime Square Grid*\]. Anaphoria.com.
 
-Wilson, E. (1970). *Triadic Diamond* \[Review of *Diamond Formations*\].
+Wilson, E. (1970). *Triadic Diamond* \[Review of *Diamond Formations*\].
 <https://www.anaphoria.com/diamond.pdf>
 
 *VCV Rack 2 - Virtual Eurorack Studio*. (n.d.). Vcvrack.com.
 <https://vcvrack.com/Rack>
 
-Ableton. (2019). *New in Live: Discover the new features Ableton Live 10
+Ableton. (2019). *New in Live: Discover the new features Ableton Live 10
 has to offer \| Ableton*. Ableton.com. <https://www.ableton.com/en/live/>
 
 *REAPER \| Audio Production Without Limits*. (n.d.). Www.reaper.fm.
@@ -354,7 +303,7 @@ has to offer \| Ableton*. Ableton.com. <https://www.ableton.com/en/live/>
 *MusicWonk Overview*. (n.d.). Algoart.com. Retrieved September 21, 2023,
 from <http://algoart.com/help/musicwonk4/MusicWonk/intro.htm>
 
-Cycling \'74. (2020). *What is Max? \| Cycling '74*. Cycling74.com.
+Cycling \'74. (2020). *What is Max? \| Cycling '74*. Cycling74.com.
 <https://cycling74.com/products/max>
 
 ```{=latex}
