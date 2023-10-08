@@ -87,8 +87,7 @@ using push-buttons, or by typing in the numbers themselves, and these
 changes will be recorded by the DAW software and the changes will then
 be displayed and the changes made available to the current scale. In
 this way, you can establish a sense of modulation and harmonic
-progression in family of scales being generated. (*Microtonality and the
-Tuning Systems of Erv Wilson*, n.d.)
+progression in family of scales being generated. (Narushima, 2018)
 
 The eleven currently existing pages (more are yet to come) are:
 
@@ -266,9 +265,7 @@ September 21, 2023, from <https://www.anaphoria.com/wilsonbio.html>
 Interactive Musical Scale Design. Retrieved September 21, 2023, from
 <https://www.wilsonic.co>
 
-*Microtonality and the Tuning Systems of Erv Wilson*. (n.d.). Routledge
-& CRC Press. Retrieved September 21, 2023, from
-<https://www.routledge.com/Microtonality-and-the-Tuning-Systems-of-Erv-Wilson/Narushima/p/book/9781138857568>
+Narushima, T. (2018) *Microtonality and the Tuning Systems of Erv Wilson*. Routledge & CRC Press. DOI: <https://doi.org/10.4324/9781315718583>
 
 *INTRODUCTION TO ERV WILSON'S MOMENTS OF SYMMETRY*. (n.d.).
 <www.anaphoria.com>. Retrieved September 21, 2023, from
