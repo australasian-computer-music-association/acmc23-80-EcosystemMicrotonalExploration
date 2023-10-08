@@ -69,8 +69,7 @@ ERV WILSON*, n.d) It originally existed as an iOS app for the iPad, and
 fed its tuning information into two iOS synthesizers: Audiokit Synth One
 and Digital D1. It provided an extremely low-cost and easy-to-use
 introduction to the tuning universe of Ervin Wilson. (*Wilsonic*, 2019)
-I've used this in a number of pieces of mine. (*Warren Burt Performs "6
-Wilson Tunings" at the Make It up Club*, n.d.)
+I've used this in a number of pieces of mine. (Burt, 2014))
 
 The new version of Wilsonic is several of orders of magnitudes more
 powerful. (*Wilsonic: Interactive Emotional Palettes of Music*, n.d.)
@@ -196,7 +195,7 @@ the plugin synthesizers in Bitwig microtonally retunable. (*Bitwig \|
 Home \| Bitwig*, n.d.) . I look forward to hearing from other folks as
 to what DAW programs they are using to host this work. For my purposes,
 the algorithmic resources available in programs like MusicWonk
-(*MusicWonk Overview*, n.d.) and Max 8  (Cycling \'74, 2020) , as well
+(*MusicWonk Overview*, 2010) and Max 8  (Cycling \'74, 2020) , as well
 as all the possibilities in the new Max for Live modules, when combined
 with the timbral and tuning resources available in the Wilsonic /
 MTS-ESP environment, will provide me with compositional possibilities
@@ -249,35 +248,27 @@ composing eco-system.
 \begin{hangparas}{1.5em}{1}
 ```
 
-*A BIOGRAPHY OF ERV WILSON*. (n.d.). Www.anaphoria.com. Retrieved
-September 21, 2023, from <https://www.anaphoria.com/wilsonbio.html>
+*A BIOGRAPHY OF ERV WILSON*. (n.d.). Retrieved September 21, 2023, from <https://www.anaphoria.com/wilsonbio.html>
 
 *ODDSound*. (n.d.). Oddsound.com. <https://oddsound.com/usingmtsesp.php>
 
-*Wilsonic*. (2019, March 5). App Store.
-<https://apps.apple.com/us/app/wilsonic/id848852071>
+*Wilsonic*. (2019). Apple App Store. <https://apps.apple.com/us/app/wilsonic/id848852071>
 
-*Warren Burt performs "6 Wilson Tunings" at The Make It Up Club*.
-(n.d.). Retrieved September 21, 2023, from
+Burt, W. (2014) *Warren Burt performs "6 Wilson Tunings" at The Make It Up Club*. Retrieved September 21, 2023, from
 <https://www.youtube.com/watch?v=9MGEA3s5Bk8>
 
-*Wilsonic: Interactive emotional palettes of music*. (n.d.). Wilsonic -
-Interactive Musical Scale Design. Retrieved September 21, 2023, from
-<https://www.wilsonic.co>
+*Wilsonic: Interactive emotional palettes of music*. (n.d.). Wilsonic - Interactive Musical Scale Design. Retrieved September 21, 2023, from <https://www.wilsonic.co>
 
 Narushima, T. (2018) *Microtonality and the Tuning Systems of Erv Wilson*. Routledge & CRC Press. DOI: <https://doi.org/10.4324/9781315718583>
 
-*INTRODUCTION TO ERV WILSON'S MOMENTS OF SYMMETRY*. (n.d.).
-<www.anaphoria.com>. Retrieved September 21, 2023, from
+*INTRODUCTION TO ERV WILSON'S MOMENTS OF SYMMETRY*. (n.d.). Retrieved September 21, 2023, from
 <https://www.anaphoria.com/wilsonintroMOS.html>
 
-*WILSON ARCHIVES - COMBINATION PRODUCT SETS - CPS*. (n.d.).
-Www.anaphoria.com. Retrieved September 21, 2023, from
+*WILSON ARCHIVES - COMBINATION PRODUCT SETS - CPS*. (n.d.). Retrieved September 21, 2023, from
 <https://www.anaphoria.com/wilsoncps.html>
 
 Wilson, E. (1993). *The Scales of Mt Meru* \[Review of *The Scales of Mt
-Meru*\]. Anaphoria.com. (n.d.). Anaphoria.com.
-<https://www.anaphoria.com/meruone.pdf>
+Meru*\]. <https://www.anaphoria.com/meruone.pdf>
 
 Wilson, E. (1999, November 26). *CoPrime Square Grid* \[Review
 of *CoPrime Square Grid*\]. Anaphoria.com.
@@ -285,19 +276,16 @@ of *CoPrime Square Grid*\]. Anaphoria.com.
 Wilson, E. (1970). *Triadic Diamond* \[Review of *Diamond Formations*\].
 <https://www.anaphoria.com/diamond.pdf>
 
-*VCV Rack 2 - Virtual Eurorack Studio*. (n.d.). Vcvrack.com.
-<https://vcvrack.com/Rack>
+*VCV Rack 2 - Virtual Eurorack Studio*. (n.d.). <https://vcvrack.com/Rack>
 
 Ableton. (2019). *New in Live: Discover the new features Ableton Live 10
-has to offer \| Ableton*. Ableton.com. <https://www.ableton.com/en/live/>
+has to offer \| Ableton*. <https://www.ableton.com/en/live/>
 
-*REAPER \| Audio Production Without Limits*. (n.d.). Www.reaper.fm.
-<https://www.reaper.fm/>
+*REAPER \| Audio Production Without Limits*. (n.d.). <https://www.reaper.fm/>
 
-*Bitwig \| Home \| Bitwig*. (n.d.). Www.bitwig.com.
-<https://www.bitwig.com/>
+*Bitwig \| Home \| Bitwig*. (n.d.). <https://www.bitwig.com/>
 
-*MusicWonk Overview*. (n.d.). Algoart.com. Retrieved September 21, 2023,
+*MusicWonk Overview*. (2010). Algoart.com. Retrieved September 21, 2023,
 from <http://algoart.com/help/musicwonk4/MusicWonk/intro.htm>
 
 Cycling \'74. (2020). *What is Max? \| Cycling '74*. Cycling74.com.
